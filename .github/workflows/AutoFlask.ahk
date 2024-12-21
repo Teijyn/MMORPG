@@ -1,4 +1,4 @@
-#this line makes the script only work when Path of Exile is the active window
+;this line makes the script only work when Path of Exile is the active window
 IfWinActive, ahk_class POEWindowClass
 
 #The key (or mouse button) you press to activate the script. For a list of supported "keys" and combinations, see https://autohotkey.com/docs/Hotkeys.htm
